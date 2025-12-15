@@ -1,0 +1,9 @@
+        .navbar {
+            background: linear-gradient(135deg, rgba(52, 125, 244, 0.95) 0%, rgba(38, 69, 209, 0.95) 100%) !important;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
